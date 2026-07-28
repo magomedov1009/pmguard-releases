@@ -1,0 +1,3 @@
+ALTER TABLE subscriptions
+  ADD COLUMN IF NOT EXISTS "lastReminderDays" INTEGER,
+  ADD COLUMN IF NOT EXISTS "lastReminderAt" TIMESTAMP;
