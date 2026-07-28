@@ -1,12 +1,11 @@
 {
-  "version": "2.7.2",
-  "build": 35,
+  "version": "2.7.3",
+  "build": 36,
   "mandatory": false,
-  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.7.2/PMGuard-2.7.2.apk",
+  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.7.3/PMGuard-2.7.3.apk",
   "releaseNotes": [
-    "Администратор может выдать VLESS-доступ пользователю из приложения.",
-    "Клиент получает основной и резервный профили VLESS.",
-    "Добавлено безопасное копирование ссылки подключения.",
-    "Действующие WireGuard-ключи и маршруты не изменяются."
+    "Экспериментальный интерфейс VLESS временно скрыт.",
+    "Данные VLESS сохранены для продолжения разработки позже.",
+    "WireGuard, Keenetic, оплаты и RMM работают без изменений."
   ]
 }
