@@ -1,0 +1,11 @@
+{
+  "version": "2.5.1",
+  "build": 31,
+  "mandatory": false,
+  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.5.1/PMGuard-2.5.1.apk",
+  "releaseNotes": [
+    "Исправлена повторная загрузка уже установленной версии.",
+    "Добавлена защита от кэширования старого APK.",
+    "Добавлен выбор панели 3x-ui при выдаче нового ключа."
+  ]
+}
