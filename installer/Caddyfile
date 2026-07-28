@@ -1,3 +1,9 @@
+{
+    servers {
+        protocols h1 h2
+    }
+}
+
 {$PMGUARD_DOMAIN} {
     encode zstd gzip
 
