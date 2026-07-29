@@ -1,11 +1,11 @@
 {
-  "version": "2.7.3",
-  "build": 36,
-  "mandatory": false,
-  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.7.3/PMGuard-2.7.3.apk",
-  "releaseNotes": [
-    "Экспериментальный интерфейс VLESS временно скрыт.",
-    "Данные VLESS сохранены для продолжения разработки позже.",
-    "WireGuard, Keenetic, оплаты и RMM работают без изменений."
-  ]
+    "version":  "2.7.4",
+    "build":  37,
+    "mandatory":  false,
+    "apkUrl":  "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.7.4/PMGuard-2.7.4.apk",
+    "releaseNotes":  [
+                         "Исправлена ложная повторная установка компонента WireGuard.",
+                         "Если WireGuard уже установлен, конфигурация и маршруты загружаются без перезагрузки роутера.",
+                         "Перед изменением компонентов выполняется повторная проверка состояния."
+                     ]
 }
