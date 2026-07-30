@@ -1,11 +1,11 @@
 {
-    "version":  "2.7.5",
-    "build":  38,
-    "mandatory":  false,
-    "apkUrl":  "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.7.5/PMGuard-2.7.5.apk",
+    "version":  "2.7.6",
+    "build":  39,
+    "apkUrl":  "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.7.6/PMGuard-2.7.6.apk",
     "releaseNotes":  [
-                         "DNS из WireGuard-конфига теперь применяется так же, как при ручном импорте.",
-                         "Маршруты сверяются по каждому CIDR, отсутствующие дозагружаются автоматически.",
-                         "Добавлены продолжение настройки, безопасный откат, диагностика и журнал операций."
-                     ]
+                         "Администратор теперь выбирает существующий ключ из полного списка",
+                         "Поиск по PMG-ID, XUI ID, имени и примечанию",
+                         "Виден текущий владелец ключа и требуется подтверждение перепривязки"
+                     ],
+    "mandatory":  false
 }
