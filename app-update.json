@@ -1,11 +1,11 @@
 {
-    "version":  "2.7.6",
-    "build":  39,
-    "apkUrl":  "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.7.6/PMGuard-2.7.6.apk",
+    "version":  "2.7.7",
+    "build":  40,
+    "apkUrl":  "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.7.7/PMGuard-2.7.7.apk",
     "releaseNotes":  [
-                         "Администратор теперь выбирает существующий ключ из полного списка",
-                         "Поиск по PMG-ID, XUI ID, имени и примечанию",
-                         "Виден текущий владелец ключа и требуется подтверждение перепривязки"
+                         "Согласие на дальнейшее обслуживание роутера при установке",
+                         "Автоматическая защищённая заявка RMM после успешной настройки",
+                         "Сбой заявки RMM больше не влияет на установленный VPN"
                      ],
     "mandatory":  false
 }
