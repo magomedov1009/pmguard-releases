@@ -1,11 +1,11 @@
 {
-    "version":  "2.7.7",
-    "build":  40,
-    "apkUrl":  "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.7.7/PMGuard-2.7.7.apk",
+    "version":  "2.7.8",
+    "build":  41,
+    "apkUrl":  "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.7.8/PMGuard-2.7.8.apk",
     "releaseNotes":  [
-                         "Согласие на дальнейшее обслуживание роутера при установке",
-                         "Автоматическая защищённая заявка RMM после успешной настройки",
-                         "Сбой заявки RMM больше не влияет на установленный VPN"
+                         "Автоматическое получение сервисного кода из админки роутера",
+                         "Логин, пароль и код объединяются в заявку RMM после согласия",
+                         "Ручной код нужен только для несовместимых старых прошивок"
                      ],
     "mandatory":  false
 }
