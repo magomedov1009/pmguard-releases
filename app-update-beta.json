@@ -1,14 +1,13 @@
 {
-    "version":  "2.8.1-beta.1",
-    "build":  43,
-    "apkUrl":  "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.8.1-beta.1/PMGuard-Beta-2.8.1-beta.1.apk",
-    "sha256":  "9e3934acf0d9cc7f878777a19bedf9e6397f5acef3a110fb406a67aba65ce506",
+    "version":  "2.8.2-beta.1",
+    "build":  44,
+    "apkUrl":  "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.8.2-beta.1/PMGuard-Beta-2.8.2-beta.1.apk",
+    "sha256":  "6213d7419368b9e68db3291b0c35473f344fe34bd0e4218cc8a55967d681d7d4",
     "releaseNotes":  [
-                         "Встроенное VLESS-подключение на базе Xray Core",
-                         "Подключение и отключение одной кнопкой",
-                         "Основной и резервный профили из учетной записи",
-                         "Задержка, скорость и длительность VPN-сессии",
-                         "Локальная сеть исключена из туннеля"
+                         "Исправлена бесконечная загрузка при неработающем VPN",
+                         "Добавлено аварийное отключение VPN",
+                         "Исправлена регистрация VLESS-клиента в 3x-ui",
+                         "Добавлены полные параметры XHTTP"
                      ],
     "mandatory":  false
 }
