@@ -1,0 +1,13 @@
+{
+    "version":  "2.8.0-beta.1",
+    "build":  42,
+    "apkUrl":  "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.8.0-beta.1/PMGuard-Beta-2.8.0-beta.1.apk",
+    "sha256":  "e97372c862365359f2356a70ab5f35317262c5678025ea87e74f9dd714d5d2b9",
+    "releaseNotes":  [
+                         "Отдельное приложение PMGuard Beta, устанавливаемое рядом со стабильным",
+                         "Собственный канал обновлений beta",
+                         "Отдельный Telegram callback для beta",
+                         "Подготовка к встроенному VLESS VPN"
+                     ],
+    "mandatory":  false
+}
