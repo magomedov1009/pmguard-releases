@@ -1,13 +1,14 @@
 {
-    "version":  "2.8.0-beta.1",
-    "build":  42,
-    "apkUrl":  "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.8.0-beta.1/PMGuard-Beta-2.8.0-beta.1.apk",
-    "sha256":  "5f840b93d78326581393c195d7abd45740914b9946c153a4e0784f99464e7ab7",
+    "version":  "2.8.1-beta.1",
+    "build":  43,
+    "apkUrl":  "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.8.1-beta.1/PMGuard-Beta-2.8.1-beta.1.apk",
+    "sha256":  "9e3934acf0d9cc7f878777a19bedf9e6397f5acef3a110fb406a67aba65ce506",
     "releaseNotes":  [
-                         "Отдельное приложение PMGuard Beta, устанавливаемое рядом со стабильным",
-                         "Собственный канал обновлений beta",
-                         "Отдельный Telegram callback для beta",
-                         "Подготовка к встроенному VLESS VPN"
+                         "Встроенное VLESS-подключение на базе Xray Core",
+                         "Подключение и отключение одной кнопкой",
+                         "Основной и резервный профили из учетной записи",
+                         "Задержка, скорость и длительность VPN-сессии",
+                         "Локальная сеть исключена из туннеля"
                      ],
     "mandatory":  false
 }
