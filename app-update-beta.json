@@ -1,12 +1,12 @@
 {
-    "version":  "2.8.3-beta.1",
-    "build":  45,
-    "apkUrl":  "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.8.3-beta.1/PMGuard-Beta-2.8.3-beta.1.apk",
-    "sha256":  "fb5cd6f445b7d1edd9b4fcbdd5d0e69e0fbdff4e70003ac83c05db32aec1a961",
+    "version":  "2.8.4-beta.1",
+    "build":  46,
+    "apkUrl":  "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.8.4-beta.1/PMGuard-Beta-2.8.4-beta.1.apk",
+    "sha256":  "41b055b93e3a7ffe7679e6eb5c9ee8666c039996657296aaeb6a507e2a570c73",
     "releaseNotes":  [
-                         "Исправлена маршрутизация всего интернет-трафика через VLESS",
-                         "Исправлены основной и резервный профили",
-                         "Сохранено аварийное восстановление при неработающем VPN"
+                         "Подключение больше не блокируется повторной загрузкой профиля",
+                         "Понятное сообщение при сетевом таймауте",
+                         "Исправлены подписи серверов"
                      ],
     "mandatory":  false
 }
