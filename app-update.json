@@ -1,13 +1,12 @@
 {
-  "version": "2.8.12",
-  "build": 54,
-  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.8.12/PMGuard-2.8.12.apk",
-  "sha256": "944b4914a3abe9d7c9cc39e4a72dd83d9d3b9f6e63bd28a49ced7b6c1f246106",
+  "version": "2.8.13",
+  "build": 55,
+  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.8.13/PMGuard-2.8.13.apk",
+  "sha256": "9cd221c50c4360750e93c365edf68cd43cca968934b8db899456c4b7ddf32464",
   "releaseNotes": [
-    "Исправлено создание нового WireGuard-ключа после оплаты YooMoney для актуальной версии 3x-ui.",
-    "В профиле пользователя и списке клиентов администратор может сразу открыть Telegram.",
-    "В заявках Keenetic добавлены быстрые ссылки на роутер CrazeDNS и сохранённую страницу RMM.",
-    "Прямой адрес RMM автоматически сохраняется после открытия роутера во встроенном помощнике."
+    "В заявках Keenetic/RMM добавлено ручное сохранение ссылок CrazeDNS и RMM.",
+    "Сохранённые ссылки можно сразу открыть из списка заявок.",
+    "Исправлена выдача нового WireGuard-ключа после оплаты YooMoney."
   ],
   "mandatory": false
 }
