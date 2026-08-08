@@ -1,12 +1,13 @@
 {
-  "version": "2.8.13",
-  "build": 55,
-  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.8.13/PMGuard-2.8.13.apk",
-  "sha256": "9cd221c50c4360750e93c365edf68cd43cca968934b8db899456c4b7ddf32464",
+  "version": "2.9.0",
+  "build": 56,
+  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.9.0/PMGuard-2.9.0.apk",
+  "sha256": "fb1d0b592958ba3201299f0075de89422f3da4e6eb142fbccd61b6d935c21ac7",
   "releaseNotes": [
-    "В заявках Keenetic/RMM добавлено ручное сохранение ссылок CrazeDNS и RMM.",
-    "Сохранённые ссылки можно сразу открыть из списка заявок.",
-    "Исправлена выдача нового WireGuard-ключа после оплаты YooMoney."
+    "Добавлен безопасный партнёрский кабинет с персональной реферальной ссылкой.",
+    "Партнёр видит только приглашённых им клиентов, их ключи, подписки, платежи и роутеры.",
+    "Разрешённый ключ клиента можно установить через мастер Keenetic.",
+    "Исправлена нестабильная Telegram-авторизация при повторной доставке callback Android."
   ],
   "mandatory": false
 }
