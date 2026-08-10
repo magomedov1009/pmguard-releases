@@ -1,12 +1,12 @@
 {
-  "version": "2.9.1-beta.3",
-  "build": 59,
-  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.9.1-beta.3/PMGuard-Beta-2.9.1-beta.3.apk",
-  "sha256": "6846851bf3972eaaac43e860f4166e857ab94d8aa9b77e3d2cc7010b4a7ee5ae",
+  "version": "2.9.1-beta.4",
+  "build": 60,
+  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.9.1-beta.4/PMGuard-Beta-2.9.1-beta.4.apk",
+  "sha256": "02242d0e4090e9699dda30cf8278199389c76cc4adcf897a4fa83deb7353ef42",
   "releaseNotes": [
-    "Восстановлен правильный beta-режим приложения.",
-    "Beta снова устанавливается отдельно от основной версии и показывает экспериментальные функции.",
-    "Исправлена ошибка Bad Request при настройке WireGuard на MikroTik."
+    "Исправлен возврат Telegram-авторизации в PMGuard Beta.",
+    "Beta использует отдельную схему pmguard-beta и больше не открывает основное приложение.",
+    "Исправлена ошибка Bad Request при настройке MikroTik."
   ],
   "mandatory": false
 }
