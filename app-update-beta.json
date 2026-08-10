@@ -1,12 +1,12 @@
 {
-  "version": "2.9.1-beta.2",
-  "build": 58,
-  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.9.1-beta.2/PMGuard-Beta-2.9.1-beta.2.apk",
-  "sha256": "09949c7876a6c541dce8008972b27a9badb419bd456d0ecfef2b5fac6b70bca7",
+  "version": "2.9.1-beta.3",
+  "build": 59,
+  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.9.1-beta.3/PMGuard-Beta-2.9.1-beta.3.apk",
+  "sha256": "6846851bf3972eaaac43e860f4166e857ab94d8aa9b77e3d2cc7010b4a7ee5ae",
   "releaseNotes": [
-    "Исправлена ошибка Bad Request при установке WireGuard на MikroTik.",
-    "Создание интерфейса, адреса, peer и маршрутов приведено к REST API RouterOS.",
-    "Сообщения RouterOS теперь показывают точную причину ошибки."
+    "Восстановлен правильный beta-режим приложения.",
+    "Beta снова устанавливается отдельно от основной версии и показывает экспериментальные функции.",
+    "Исправлена ошибка Bad Request при настройке WireGuard на MikroTik."
   ],
   "mandatory": false
 }
