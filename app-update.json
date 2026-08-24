@@ -1,12 +1,12 @@
 {
-  "version": "2.9.2",
-  "build": 61,
-  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.9.2/PMGuard-2.9.2.apk",
-  "sha256": "891c0c31b0d2c9e1359cc21f24f5aeb10e05f39bc8c8d08c62c02a9f51676afe",
+  "version": "2.9.3",
+  "build": 62,
+  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.9.3/PMGuard-2.9.3.apk",
+  "sha256": "4421ca0b52e38f5cd8feef85239fcbeb718a8bcd4b254149e046ae3205178b76",
   "releaseNotes": [
-    "Исправлена установка WireGuard на KeeneticOS 4.x",
-    "Приложение дожидается обновления прошивки и перезагрузки роутера",
-    "После запуска Keenetic настройка VPN продолжается автоматически"
+    "Добавлена поддержка AmneziaWG из 3x-ui 3.7.0",
+    "При покупке нового ключа можно выбрать WireGuard или AmneziaWG",
+    "Активный оплаченный WireGuard-ключ можно бесплатно заменить на AmneziaWG с сохранением срока"
   ],
   "mandatory": false
 }
