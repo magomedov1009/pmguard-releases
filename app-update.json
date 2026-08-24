@@ -2,7 +2,7 @@
   "version": "2.9.2",
   "build": 61,
   "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.9.2/PMGuard-2.9.2.apk",
-  "sha256": "e825dc5c871d545a69ba44d04ff43e424ecea3ce1101ce257da6e83f8bdbecb6",
+  "sha256": "891c0c31b0d2c9e1359cc21f24f5aeb10e05f39bc8c8d08c62c02a9f51676afe",
   "releaseNotes": [
     "Исправлена установка WireGuard на KeeneticOS 4.x",
     "Приложение дожидается обновления прошивки и перезагрузки роутера",
