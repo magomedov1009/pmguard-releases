@@ -1,12 +1,12 @@
 {
-  "version": "2.9.5",
-  "build": 64,
-  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.9.5/PMGuard-2.9.5.apk",
-  "sha256": "63eed00ee2b5fbf8348b4a4c7ce8531ac1f1fa10b7476f1e120a6eb0b5928f51",
+  "version": "2.9.6",
+  "build": 65,
+  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.9.6/PMGuard-2.9.6.apk",
+  "sha256": "4c582f84071dfbcc6946fd15db7e2ddd568a9d6141fb0c5dc927d7dec6731bf4",
   "releaseNotes": [
-    "Администратор может выбрать WireGuard или AmneziaWG при выдаче нового ключа",
-    "Выбор протокола доступен в мобильной и веб-панели администратора",
-    "Сохранена автоматическая установка AmneziaWG на KeeneticOS/NetcrazeOS 5.1+"
+    "Роутер автоматически привязывается к профилю после успешной настройки",
+    "Сервисный код считывается из Keenetic/NetcrazeOS без ручного ввода",
+    "Повторная настройка обновляет доступ без дублей и сохраняет ссылку RMM"
   ],
   "mandatory": false
 }
