@@ -1,12 +1,12 @@
 {
-  "version": "2.9.4",
-  "build": 63,
-  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.9.4/PMGuard-2.9.4.apk",
-  "sha256": "d882825596377f6b2e6fbcb76588b2ecf1a12a9c1fea629da3cd85a349f4d1ce",
+  "version": "2.9.5",
+  "build": 64,
+  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.9.5/PMGuard-2.9.5.apk",
+  "sha256": "63eed00ee2b5fbf8348b4a4c7ce8531ac1f1fa10b7476f1e120a6eb0b5928f51",
   "releaseNotes": [
-    "Автоматическая установка AmneziaWG 2.0 на KeeneticOS/NetcrazeOS 5.1+",
-    "Для старой прошивки приложение запускает штатное обновление и продолжает после перезагрузки",
-    "Несовместимый роутер блокируется без изменения VPN-настроек"
+    "Администратор может выбрать WireGuard или AmneziaWG при выдаче нового ключа",
+    "Выбор протокола доступен в мобильной и веб-панели администратора",
+    "Сохранена автоматическая установка AmneziaWG на KeeneticOS/NetcrazeOS 5.1+"
   ],
   "mandatory": false
 }
