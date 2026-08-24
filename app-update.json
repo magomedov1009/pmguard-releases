@@ -1,12 +1,12 @@
 {
-  "version": "2.9.1",
-  "build": 57,
-  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.9.1/PMGuard-2.9.1.apk",
-  "sha256": "eb7297da88e7f52fa407de3642b201694895987e0b09c9ebd3ac603507238033",
+  "version": "2.9.2",
+  "build": 61,
+  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.9.2/PMGuard-2.9.2.apk",
+  "sha256": "e825dc5c871d545a69ba44d04ff43e424ecea3ce1101ce257da6e83f8bdbecb6",
   "releaseNotes": [
-    "Добавлен новый фирменный логотип PMGuard.",
-    "Обновлены иконка приложения и оформление основных экранов.",
-    "Сохранены все функции версии 2.9.0."
+    "Исправлена установка WireGuard на KeeneticOS 4.x",
+    "Приложение дожидается обновления прошивки и перезагрузки роутера",
+    "После запуска Keenetic настройка VPN продолжается автоматически"
   ],
   "mandatory": false
 }
