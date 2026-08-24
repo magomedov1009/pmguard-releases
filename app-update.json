@@ -1,12 +1,13 @@
 {
-  "version": "2.9.6",
-  "build": 65,
-  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.9.6/PMGuard-2.9.6.apk",
-  "sha256": "4c582f84071dfbcc6946fd15db7e2ddd568a9d6141fb0c5dc927d7dec6731bf4",
+  "version": "2.9.7",
+  "build": 66,
+  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.9.7/PMGuard-2.9.7.apk",
+  "sha256": "f7256a334f8b40dc860623273cdffbf7d278e04a765719690f57b73cf8c67e73",
   "releaseNotes": [
     "Роутер автоматически привязывается к профилю после успешной настройки",
     "Сервисный код считывается из Keenetic/NetcrazeOS без ручного ввода",
-    "Повторная настройка обновляет доступ без дублей и сохраняет ссылку RMM"
+    "Повторная настройка обновляет доступ без дублей и сохраняет ссылку RMM",
+    "YouTube, Telegram, Instagram и WhatsApp выбраны в маршрутах по умолчанию"
   ],
   "mandatory": false
 }
