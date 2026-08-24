@@ -2,7 +2,7 @@
   "version": "2.10.0",
   "build": 69,
   "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.10.0/PMGuard-2.10.0.apk",
-  "sha256": "1b9f7abf1cf0ba8291d2565edee4a289b758036da40dee2e18d1904de112862c",
+  "sha256": "245165b2c1069dd3a5edb7e820a29474ccb2cce78348a875b8d3324909b4905e",
   "releaseNotes": [
     "Добавлены пользовательское соглашение, политика конфиденциальности и правила допустимого использования",
     "Согласие сохраняется с номером редакции, датой и источником",
