@@ -1,12 +1,12 @@
 {
-  "version": "2.10.3",
-  "build": 72,
-  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.10.3/PMGuard-2.10.3.apk",
-  "sha256": "2bf14c5f6537b39a97bcdccce16558811af4107f191a1dff09fac5c754b6cca4",
+  "version": "2.10.4",
+  "build": 73,
+  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.10.4/PMGuard-2.10.4.apk",
+  "sha256": "a5b4fd5977ec8c97a95aa57ee47ebad51a82b78dd89d527daa128f1156281928",
   "releaseNotes": [
-    "Список пользователей администратора снова включает всех, кто запускал бота",
-    "Добавлено безопасное удаление отдельной компании вместе с её локальными ключами и заявками",
-    "Клиенты и данные другой компании больше не смешиваются с основной панелью"
+    "Добавлено изменение названия, адреса и API-токена 3x-ui панели",
+    "Добавлено безопасное удаление записи панели из PMGuard",
+    "Перед удалением показывается количество связанных ключей"
   ],
   "mandatory": false
 }
