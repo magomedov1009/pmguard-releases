@@ -1,12 +1,12 @@
 {
-  "version": "2.10.4",
-  "build": 73,
-  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.10.4/PMGuard-2.10.4.apk",
-  "sha256": "a5b4fd5977ec8c97a95aa57ee47ebad51a82b78dd89d527daa128f1156281928",
+  "version": "2.10.5",
+  "build": 74,
+  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.10.5/PMGuard-2.10.5.apk",
+  "sha256": "1139b7eb1a29704e08375c13ba021cd2c959276313883936db0f24fc4782ee92",
   "releaseNotes": [
-    "Добавлено изменение названия, адреса и API-токена 3x-ui панели",
-    "Добавлено безопасное удаление записи панели из PMGuard",
-    "Перед удалением показывается количество связанных ключей"
+    "Если роутер сообщает об отсутствии типа WireGuard, приложение предложит установку компонента и продолжит настройку после перезапуска",
+    "Исправлено ожидание загрузки каталога компонентов Keenetic/Netcraze",
+    "Повтор установки после ошибки компонента ограничен одной попыткой"
   ],
   "mandatory": false
 }
