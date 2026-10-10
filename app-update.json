@@ -1,13 +1,12 @@
 {
-  "version": "2.10.10",
-  "build": 82,
-  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.10.10/PMGuard-2.10.10.apk",
-  "sha256": "7c14a0f53a8e9feda93282ed6f8004f2b13bf2fc98fb3625ff5da73cfade3113",
+  "version": "2.10.11",
+  "build": 83,
+  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.10.11/PMGuard-2.10.11.apk",
+  "sha256": "48bc05667e757e196c1c5c1bbcad90d1b9a3f92ebc396d7b84d869299c489f17",
   "releaseNotes": [
-    "Раздел роутеров убран из профиля приложения",
-    "Компактный список роутеров в административном разделе",
-    "Telegram-ник или ID клиента, ID PMGuard и название роутера",
-    "Поиск по нику, ID клиента и названию; дополнительные способы входа в меню"
+    "Выбор существующей организации при создании партнёра",
+    "Настоящий номер установленной версии в профиле",
+    "Mini App скачивает последнюю стабильную версию"
   ],
   "mandatory": false
 }
