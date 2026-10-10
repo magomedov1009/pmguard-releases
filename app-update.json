@@ -1,11 +1,11 @@
 {
-  "version": "2.10.13",
-  "build": 85,
-  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.10.13/PMGuard-2.10.13.apk",
-  "sha256": "5e460e9a6cdb8b84a70d096aafad5d011be45ab32c3af6a826c5f4e340d45f0a",
+  "version": "2.10.14",
+  "build": 86,
+  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.10.14/PMGuard-2.10.14.apk",
+  "sha256": "9858343e9e6483102589204c92aa5a14b8cb7ac0c072d58845a9c8840d807777",
   "releaseNotes": [
+    "Поиск по настоящему Wi-Fi-шлюзу телефона, независимо от активного VPN",
     "Поддержка нового входа Keenetic NDW4",
-    "Поиск роутера по Wi-Fi-шлюзу телефона",
     "Настройка роутеров партнёрами для своих клиентов"
   ],
   "mandatory": false
