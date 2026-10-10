@@ -1,12 +1,13 @@
 {
-  "version": "2.10.14",
-  "build": 86,
-  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.10.14/PMGuard-2.10.14.apk",
-  "sha256": "9858343e9e6483102589204c92aa5a14b8cb7ac0c072d58845a9c8840d807777",
+  "version": "2.10.15",
+  "build": 87,
+  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.10.15/PMGuard-2.10.15.apk",
+  "sha256": "742b3d37ef3d9e273b35297066bcdf80e6d2cdbdf4b2732ee1966a5ec27e210a",
   "releaseNotes": [
-    "Поиск по настоящему Wi-Fi-шлюзу телефона, независимо от активного VPN",
-    "Поддержка нового входа Keenetic NDW4",
-    "Настройка роутеров партнёрами для своих клиентов"
+    "Удалена отдельная телефонная VLESS-бета",
+    "Полностью исключены Android VPN-служба и V2Ray/Xray",
+    "Настройка роутеров, удалёнка и партнёрский кабинет сохранены",
+    "Размер APK уменьшен примерно до 54 МБ"
   ],
   "mandatory": false
 }
