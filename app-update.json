@@ -1,12 +1,12 @@
 {
-  "version": "2.10.11",
-  "build": 83,
-  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.10.11/PMGuard-2.10.11.apk",
-  "sha256": "48bc05667e757e196c1c5c1bbcad90d1b9a3f92ebc396d7b84d869299c489f17",
+  "version": "2.10.12",
+  "build": 84,
+  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.10.12/PMGuard-2.10.12.apk",
+  "sha256": "488b6bafed9060e9c065db65f144269e104d63864c7d90fe11604d67c152a294",
   "releaseNotes": [
-    "Выбор существующей организации при создании партнёра",
-    "Настоящий номер установленной версии в профиле",
-    "Mini App скачивает последнюю стабильную версию"
+    "Telegram-ник рядом с ID в списке и карточке партнёра",
+    "Понятный выбор партнёра в кабинете и приложении",
+    "Если ника нет, отображается Telegram ID"
   ],
   "mandatory": false
 }
