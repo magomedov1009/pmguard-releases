@@ -1,13 +1,13 @@
 {
-  "version": "2.10.9",
-  "build": 81,
-  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.10.9/PMGuard-2.10.9.apk",
-  "sha256": "9cc14d65d79e4cb206d9238ed17f4212f68e52c64cbf3345d902a2e92d89263a",
+  "version": "2.10.10",
+  "build": 82,
+  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.10.10/PMGuard-2.10.10.apk",
+  "sha256": "7c14a0f53a8e9feda93282ed6f8004f2b13bf2fc98fb3625ff5da73cfade3113",
   "releaseNotes": [
-    "Удалённый доступ к роутерам только для администратора",
-    "Компактный список роутеров и исправление входа из Android",
-    "Управление финансами партнёров в приложении владельца",
-    "Условия, группы, начисления, выплаты, корректировки и отчёты"
+    "Раздел роутеров убран из профиля приложения",
+    "Компактный список роутеров в административном разделе",
+    "Telegram-ник или ID клиента, ID PMGuard и название роутера",
+    "Поиск по нику, ID клиента и названию; дополнительные способы входа в меню"
   ],
   "mandatory": false
 }
