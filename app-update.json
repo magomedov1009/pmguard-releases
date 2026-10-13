@@ -1,13 +1,12 @@
 {
-  "version": "2.10.15",
-  "build": 87,
-  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.10.15/PMGuard-2.10.15.apk",
-  "sha256": "742b3d37ef3d9e273b35297066bcdf80e6d2cdbdf4b2732ee1966a5ec27e210a",
+  "version": "2.10.17",
+  "build": 89,
+  "apkUrl": "https://github.com/magomedov1009/pmguard-releases/releases/download/v2.10.17/PMGuard-2.10.17.apk",
+  "sha256": "3823282dfe97ae76a4a96a58ef7cf2deb86c1a05565cbf02768f8b11787d0aa6",
   "releaseNotes": [
-    "Удалена отдельная телефонная VLESS-бета",
-    "Полностью исключены Android VPN-служба и V2Ray/Xray",
-    "Настройка роутеров, удалёнка и партнёрский кабинет сохранены",
-    "Размер APK уменьшен примерно до 54 МБ"
+    "Исправлена ошибка «Выберите организацию» при подключении обслуживания роутера",
+    "После отмены попытки организация определяется повторно",
+    "Добавлена повторная загрузка списка организаций при ошибке сервера"
   ],
   "mandatory": false
 }
